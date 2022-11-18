@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @r3ki3g : Ama Pasindu Prabhashwara Kahawalage
 - 👀 I’m interested in Computer vision and machine learning related stuff.
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently studying algorithms, machine vision, machine learning. I have experience on web designing too.
 - 💞️ I’m looking to collaborate on machine learning and image processing, signal processing realted projects
 - 📫 How to reach me : +94 77 1600 343
 
